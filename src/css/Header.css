@@ -1,0 +1,18 @@
+.login{
+    font-size: 30px;
+    margin-right: 5px;
+    color: black;
+}
+.active {
+    border-bottom: 2px #61dafb solid;
+    padding-bottom: 3px;
+  
+  }
+  
+  .nav-link {
+    color: #000 !important;
+    font-weight: 500;
+    font-size: 18px;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
